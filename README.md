@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-The objective of this project is to analyze hospital encounter data to understand patient demographics, healthcare utilization, diagnosis patterns, medication usage, and repeat hospital visits.
+The objective of this project is to analyze hospital encounter data to understand patient demographics, healthcare utilization, diagnosis patterns, medication patterns, and repeat hospital visits.
 
 The analysis focuses on identifying patterns associated with **30-day hospital readmissions**, including patient characteristics, encounter history, diagnoses, and medication-related factors. The findings are analyzed using data analytics techniques and presented through an **interactive Power BI dashboard** to support data-driven healthcare insights and readmission analysis.
 
