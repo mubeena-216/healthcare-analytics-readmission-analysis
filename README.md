@@ -6,6 +6,9 @@ The objective of this project is to analyze hospital encounter data to understan
 
 The analysis focuses on identifying patterns associated with **30-day hospital readmissions**, including patient characteristics, encounter history, diagnoses, and medication-related factors. The findings are analyzed using data analytics techniques and presented through an **interactive Power BI dashboard** to support data-driven healthcare insights and readmission analysis.
 
+## Dashboard Preview
+![Healthcare Analytics Executive Overview](images/executive_overview.png)
+
 ## Tools & Technologies
 
 * **Excel** – Quick visual inspection and initial understanding of the raw dataset
